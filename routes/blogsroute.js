@@ -200,7 +200,8 @@
 //////////
 import express from "express";
 import jwt from "jsonwebtoken";
-import bcrypt from "bcrypt";
+// import bcrypt from "bcrypt";
+import bcrypt from "bcryptjs";
 import mongoose from "mongoose";
 
 import { BlogPost_Model1 } from "../models/blogsmodel.js";
