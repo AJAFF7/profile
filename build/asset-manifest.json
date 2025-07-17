@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c05d237f.css",
-    "main.js": "/static/js/main.fe1cfa40.js",
+    "main.css": "/static/css/main.cfd71549.css",
+    "main.js": "/static/js/main.d342e35a.js",
     "static/media/algorithm.jpg": "/static/media/algorithm.f4271f576e2d6e6ac6fa.jpg",
     "static/media/kurdistan7.jpg": "/static/media/kurdistan7.2952c43778d5c72ccadf.jpg",
     "static/media/covid1.jpg": "/static/media/covid1.1d2f2dc2327ec693e3df.jpg",
@@ -22,11 +22,11 @@
     "static/media/minimalist2.jpg": "/static/media/minimalist2.78d69d24c9bf8b50e2af.jpg",
     "static/media/minimalist3.jpg": "/static/media/minimalist3.a9d17f796fab502431d4.jpg",
     "index.html": "/index.html",
-    "main.c05d237f.css.map": "/static/css/main.c05d237f.css.map",
-    "main.fe1cfa40.js.map": "/static/js/main.fe1cfa40.js.map"
+    "main.cfd71549.css.map": "/static/css/main.cfd71549.css.map",
+    "main.d342e35a.js.map": "/static/js/main.d342e35a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c05d237f.css",
-    "static/js/main.fe1cfa40.js"
+    "static/css/main.cfd71549.css",
+    "static/js/main.d342e35a.js"
   ]
 }
